@@ -10,4 +10,6 @@ load_mod_mobs = true
 load_mod_moreblocks = true
 load_mod_moretrees = true
 load_mod_pipeworks = true
+load_mod_signs_lib = true
+load_mod_unifieddyes = true
 load_mod_vehicles = true
