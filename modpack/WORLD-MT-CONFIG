@@ -66,6 +66,7 @@ load_mod_poisonivy = true
 load_mod_quartz = true
 load_mod_shields = true
 load_mod_signs_lib = true
+load_mod_skinsdb = true
 load_mod_snowdrift = true
 load_mod_trunks = true
 load_mod_unifieddyes = true
