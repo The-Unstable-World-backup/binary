@@ -75,5 +75,6 @@ load_mod_vehicles = true
 load_mod_vines = true
 load_mod_wieldview = true
 load_mod_woodsoils = true
+load_mod_xban2 = true
 load_mod_xdecor = true
 load_mod_youngtrees = true
