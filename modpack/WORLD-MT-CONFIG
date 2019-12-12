@@ -6,7 +6,6 @@ load_mod_3d_armor_ui = true
 load_mod_3dmushrooms = true
 load_mod_along_shore = true
 load_mod_areas = true
-load_mod_awards = true
 load_mod_basic_materials = true
 load_mod_biome_lib = true
 load_mod_bushes = true
