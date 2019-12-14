@@ -16,6 +16,7 @@ build script: https://github.com/The-Unstable-World/The-Unstable-World
 ## GNU/Linux
 
 * [minetest.AppImage 64bit(amd64)](client/gnulinux/amd64/minetest.AppImage?raw=true)
+* [minetest_archlinux.AppImage 64bit(amd64) (Archlinux)](client/gnulinux/amd64/minetest_archlinux.AppImage?raw=true)
 
 ## Mac OS X
 
@@ -31,3 +32,4 @@ build script: https://github.com/The-Unstable-World/The-Unstable-World
 ## GNU/Linux
 
 * [minetestserver.AppImage 64bit(amd64)](server/gnulinux/amd64/minetestserver.AppImage?raw=true)
+* [minetestserver_archlinux.AppImage 64bit(amd64) (Archlinux)](server/gnulinux/amd64/minetestserver_archlinux.AppImage?raw=true)
