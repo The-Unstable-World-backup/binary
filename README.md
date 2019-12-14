@@ -19,7 +19,8 @@ build script: https://github.com/The-Unstable-World/The-Unstable-World
 
 ## Mac OS X
 
-* [minetest.zip 64bit](client/macosx/minetest.zip?raw=true)
+* [minetest.zip 64bit (MacOSX 10.11 or later)](client/macosx/minetest.zip?raw=true)
+* [minetest.zip 64bit (MacOSX 10.13 or later)](client/macosx/minetest_highsierra.zip?raw=true)
 
 ## Android
 
