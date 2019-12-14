@@ -1,6 +1,6 @@
 # binary
 
-* (Temporarily) only modpack is compiled every few minutes, others are compiled daily. *
+*** (Temporarily) only modpack is compiled every few minutes, others are compiled daily. ***
 
 Minetest daily development build and modpack for the `The Unstable World` server
 
