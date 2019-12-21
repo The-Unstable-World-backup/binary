@@ -1,6 +1,6 @@
 # binary
 
-mods and minetestserver.AppImage are compiled hourly, others are compiled daily.
+mods and `minetestserver.AppImage` are compiled hourly, others are compiled daily.
 
 Minetest daily development build and modpack for the `The Unstable World` server
 
