@@ -17,6 +17,7 @@ build script: https://github.com/The-Unstable-World/The-Unstable-World
 
 * [minetest.AppImage 64bit(amd64)](client/gnulinux/amd64/minetest.AppImage?raw=true)
 * [minetest_archlinux.AppImage 64bit(amd64) (Archlinux)](client/gnulinux/amd64/minetest_archlinux.AppImage?raw=true)
+* [minetest_alpine.AppImage 64bit(amd64) (Alpinelinux)](client/gnulinux/amd64/minetest_alpine.AppImage?raw=true)
 
 
 ## Mac OS X
