@@ -63,7 +63,6 @@ load_mod_moretrees = true
 load_mod_nature_classic = true
 load_mod_nether = true
 load_mod_pipeworks = true
-load_mod_plantlife_i18n = true
 load_mod_poisonivy = true
 load_mod_quartz = true
 load_mod_shields = true
