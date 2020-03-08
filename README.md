@@ -1,5 +1,8 @@
 # binary
 
+See https://github.com/The-Unstable-World/binary
+This is a backup.
+
 mods, games and `minetestserver_alpine.AppImage` are compiled hourly, others are compiled daily.
 
 Minetest daily development build and modpack for the `The Unstable World` server
